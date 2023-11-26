@@ -1,4 +1,5 @@
-﻿#include <iostream>
+//간단한 지렁이 키우기 게임
+#include <iostream>
 #include <conio.h>  //키보드 입력 키 값을 받기 위해 사용
 #include <windows.h> //system("cls") sleep()등을 사용하기 위해 추가
 
